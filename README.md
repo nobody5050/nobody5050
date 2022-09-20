@@ -34,6 +34,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nobody5050/nobody5050/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/nobody5050/nobody5050/output/snake.svg" alt="Snake animation" />
 
 ###

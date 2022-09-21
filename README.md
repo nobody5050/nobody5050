@@ -27,13 +27,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" width="52" alt="raspberrypi logo"  />
 </div>
-
-###
-
-<h2 align="left">My contribution graph</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/nobody5050/nobody5050/output/snake.svg" alt="Snake animation" />
-
-###

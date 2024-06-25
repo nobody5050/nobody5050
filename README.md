@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Heyo! I'm Levi, a full stack developer based in the United States with 10 years of experience and a passion for all things Raspberry Pi, Python, and Minecraft Pi Edition. I was also a programmer for my local FRC team where I got to flex my C++ skills. Nice to meet you!</p>
+<p align="left">Heyo! I'm Levi, a full stack developer based in the United States with 9 years of experience and a passion for all things Raspberry Pi, Python, and Minecraft Pi Edition. I was also a programmer for my local FRC team where I got to flex my C++ skills. Nice to meet you!</p>
 
 ###
 

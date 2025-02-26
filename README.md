@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 I'm Levi!</h1>
 
 ###
 
-<p align="left">Heyo! I'm Levi, a full stack developer based in the United States with 9 years of experience and a passion for all things Raspberry Pi, Python, and Minecraft Pi Edition. I was also a programmer for my local FRC team where I got to flex my C++ skills. Nice to meet you!</p>
+<p align="left">I'm a full-stack developer from <strong>Duluth, Minnesota</strong>. I enjoy building cool projects with Raspberry Pi, writing Python scripts, and tinkering with Minecraft Pi Edition.<br><br>I also spent some time as a programmer for my local FRC team, where I got to work with C++ and robotics.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🤖 Former lead programmer, Driver for FRC 5690<br>✨ Creating bugs since 2017<br>🚀 I'm currently working on <a href="https://github.com/randomsoup">RandomSoup</a></p>
+<p align="left">🤖 Former lead programmer, Driver for FRC 5690<br>🔭 Currently writing code for <a href="https://lumynlabs.com">Lumyn Labs</a></p>
 
 ###
 
@@ -18,11 +18,20 @@
 
 ###
 
-<div align="left">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="52" alt="c plus plus logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" width="52" alt="raspberrypi logo"  />
-  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="20" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="20" alt="nuxtjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="20" alt="svelte logo"  />
 </div>
+
+###

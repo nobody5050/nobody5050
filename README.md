@@ -13,7 +13,3 @@
 <p align="left">🤖 Former lead programmer, Driver for FRC 5690<br>🔭 Currently writing code for <a href="https://lumynlabs.com">Lumyn Labs</a></p>
 
 ###
-
-<img src="https://raw.githubusercontent.com/nobody5050/nobody5050/output/snake.svg" alt="Snake animation" />
-
-###
